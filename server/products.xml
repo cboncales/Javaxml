@@ -1,0 +1,43 @@
+<products>
+    <product>
+        <code>100</code>
+        <name>Predator</name>
+        <description>Laptop</description>
+        <manufacturer>Acer</manufacturer>
+        <retailPrice>55000.99</retailPrice>
+        <storePrice>44000.50</storePrice>
+        <quantity>5</quantity>
+        <brand>Acer</brand>
+        <type>Gadget</type>
+    </product>
+    <product>
+        <code>101</code>
+        <name>IPhone</name>
+        <description>Mobile Phone</description>
+        <manufacturer>Apple</manufacturer>
+        <retailPrice>50000.90</retailPrice>
+        <storePrice>10000.75</storePrice>
+        <quantity>10</quantity>
+        <type>Gadget</type>
+    </product>
+    <product>
+        <code>102</code>
+        <name>Lenovo Charger</name>
+        <description>Charger</description>
+        <manufacturer>Lenovo</manufacturer>
+        <retailPrice>4000.00</retailPrice>
+        <storePrice>1500.75</storePrice>
+        <quantity>50</quantity>
+        <type>Accessories</type>
+    </product>
+    <product>
+        <code>103</code>
+        <name>Panasonic</name>
+        <description>Power Bank</description>
+        <manufacturer>Sony</manufacturer>
+        <retailPrice>45999.75</retailPrice>
+        <storePrice>30599.90</storePrice>
+        <quantity>20</quantity>
+        <type>Accessories</type>
+    </product>
+</products>
